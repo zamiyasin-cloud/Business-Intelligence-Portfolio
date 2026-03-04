@@ -1,16 +1,60 @@
-# 📊 Business-Intelligence-Portfolio
+# 📊 Business Intelligence Portfolio  
+### Zami R. Yasin  
+Business Intelligence Analyst | SQL | Power BI | Tableau  
 
-This repository serves as a portfolio of data analysis and business intelligence projects completed as part of the TripleTen program.
+Turning data into actionable business insights.
 
 ---
 
-## 📁 Projects
+## 👨‍💼 About Me
 
-### 📌 Personal Finance & Spending Analysis
+I am a Business Intelligence Analyst with a background in accounting and finance.  
+I specialize in SQL, Power BI, Tableau, and data visualization to uncover trends, optimize performance, and support data-driven decision-making.
+
+---
+
+## 🛠 Technical Skills
+
+- SQL (Joins, CTEs, Aggregations, Views)
+- Power BI (DAX, Power Query, Data Modeling)
+- Tableau (Interactive Dashboards)
+- Excel (Pivot Tables, Advanced Formulas)
+- Data Cleaning & Transformation
+- Business Performance Analysis
+
+---
+
+## 📁 Featured Projects
+
+---
+
+### 1️⃣ Personal Finance & Spending Analysis  
 **Tools:** SQL, Power BI, Excel  
 
-**Description:**  
-Cleaned, standardized, and analyzed real-world financial transaction data. Built SQL views and BI dashboards to track income, expenses, and spending patterns.
+- Cleaned and standardized financial transaction data  
+- Built SQL views to analyze income, expenses, and spending categories  
+- Developed Power BI dashboards to track trends and identify savings opportunities  
 
-🔗 **Project Repository:**  
-https://github.com/zamiyasin-cloud/personal-finance-spending-analysis
+🔗 Project Link:  
+https://github.com/zamiyasin-cloud/personal-finance-spending-analysis  
+
+---
+
+### 2️⃣ Superstore Sales Performance Dashboard  
+**Tools:** Tableau  
+
+- Analyzed sales, profit, and regional performance metrics  
+- Identified underperforming segments and revenue trends  
+- Designed executive-ready interactive dashboards  
+
+🔗 Tableau Portfolio:  
+https://public.tableau.com/app/profile/zami.yasin/vizzes  
+
+---
+
+## 📬 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/zami-yasin-2654871b6  
+- Email: zami.yasin@gmail.com  
+
+---
