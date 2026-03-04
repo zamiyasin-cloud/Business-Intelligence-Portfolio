@@ -75,3 +75,18 @@ Key Insights
 - Identified underperforming app segments
 
 Dashboard Previews
+---
+
+## 📄 Full Project Report
+
+You can download the complete storytelling analysis here:
+
+[Download Full PDF Report](Superstore_Returns_Analysis.pdf)
+
+---
+
+## 🌐 Live Interactive Dashboard
+
+View the interactive Tableau dashboard here:
+
+https://public.tableau.com/app/profile/zami.yasin/viz/SavingSuperstoreProfitReturnsAnalysis/Part3CustomerReturnRate
