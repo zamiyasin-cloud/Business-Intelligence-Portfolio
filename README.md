@@ -1,4 +1,4 @@
-# 📊 Data Projects – TripleTen Portfolio
+# 📊 Business-Intelligence-Portfolio
 
 This repository serves as a portfolio of data analysis and business intelligence projects completed as part of the TripleTen program.
 
