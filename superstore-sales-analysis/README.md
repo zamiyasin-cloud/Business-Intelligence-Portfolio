@@ -16,4 +16,4 @@ Analyzed retail sales data to identify revenue trends, profit drivers, and under
 ## Business Impact
 Provided data-driven recommendations to improve profitability and optimize inventory allocation.
 🔗 Live Tableau Dashboard:  
-https://public.tableau.com/app/profile/zami.yasin/viz/SavingSuperstoreProfitReturnsAnalysis/Part3CustomerReturnRate
+](https://public.tableau.com/app/profile/zami.yasin/viz/Superstore_Returns_Analysis_17685131575080/ReturnRatebyCategoryandRegionHighlightTable?publish=yes)
