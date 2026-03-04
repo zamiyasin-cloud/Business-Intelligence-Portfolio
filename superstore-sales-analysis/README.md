@@ -4,8 +4,8 @@
 Analyzed retail sales data to identify revenue trends, profit drivers, and underperforming segments.
 
 ## Tools Used
-- SQL
-- Power BI
+- 
+- Tableau
 - Excel
 - Data Cleaning & Aggregation
 
