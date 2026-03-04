@@ -58,3 +58,20 @@ https://public.tableau.com/app/profile/zami.yasin/vizzes
 - Email: zami.yasin@gmail.com  
 
 ---
+📊 App Landscape & Review Analysis
+
+Overview
+Analyzed app store data to identify rating trends, developer responsiveness, and review helpfulness patterns.
+
+Tools Used
+- SQL
+- Power BI
+- Excel
+- Data Cleaning & Transformation
+
+Key Insights
+- Developers responding to reviews had higher average ratings
+- Helpfulness score correlated with review sentiment
+- Identified underperforming app segments
+
+Dashboard Previews
