@@ -1,20 +1,17 @@
 # 📱 App Landscape & Review Analysis
 
-## 📌 Overview
+## Overview
 
-Analyzed app store data to identify rating trends, developer responsiveness, and review helpfulness patterns.
+This project analyzes app store performance data to understand rating trends, developer responsiveness, and customer review behavior.  
 
-The goal was to understand what drives higher ratings and how developer engagement impacts customer perception.
-
----
+The objective was to identify drivers of app performance and provide actionable insights to improve user satisfaction and platform engagement.
 
 ## 🛠 Tools Used
 
-- SQL
-- Power BI
-- Excel
+- SQL (Aggregations, Joins, Data Cleaning)
+- Power BI (DAX, KPI Cards, Interactive Dashboards)
+- Excel (Data Preparation & Validation)
 - Data Cleaning & Transformation
-
 ---
 
 ## 📊 Key Business Questions
@@ -36,12 +33,11 @@ The goal was to understand what drives higher ratings and how developer engageme
 
 ## 📈 Business Impact
 
-Provided actionable recommendations for:
-- Increasing developer response rate
-- Improving customer satisfaction scores
-- Targeting underperforming segments for improvement
+Delivered data-driven recommendations to improve platform engagement and user satisfaction.
 
----
+- Identified link between developer responsiveness and higher app ratings
+- Highlighted underperforming categories for strategic improvement
+- Provided insights to improve review engagement and customer trust
 
 ## 📸 Dashboard Previews
 
